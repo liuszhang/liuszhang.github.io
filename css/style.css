@@ -97,7 +97,7 @@ body {
 /*-- start header --*/
 .header{
 	background: url('../images/img (52).jpg');
-	background-size: 100% 100%;
+	background-size: 100% 120%;
 	background-position: center;
 }
 /* soc_icons */
@@ -194,14 +194,14 @@ body {
 }
 /* h_main */
 .h_main{
-	padding: 6% 0 0;
+	padding: 6% 10px 0;
 	width:80%;
 	margin: 0 auto;
 }
 .h_img{
 	float:left;
 	width: 32.33333%;
-	margin-bottom: -3px;
+	margin-bottom: -10px;
 }
 .h_text{
 	float:left;
