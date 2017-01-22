@@ -206,7 +206,7 @@ body {
 .h_text{
 	float:left;
 	width: 63.33333%;
-	margin: 10% 0 0 4%;
+	margin: 10% 100px 0 4%;
 }
 .h_text h2{
 	font-family: 'Roboto Slab', serif;
