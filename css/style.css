@@ -34,8 +34,8 @@ body {
 	font-size: 100%;
 }
 .wrap{
-	margin:0 auto;
-	width:70%;
+	margin:0 0;
+	width:100%;
 }
 /* header_left1 */
 .header_left1 {
@@ -95,10 +95,15 @@ body {
 	color: #38528B;
 }
 /*-- start header --*/
-.header{
-	background: url('../images/img (8).jpg');
-	background-size: 100% 100%;
-	background-position: center;
+.header {
+    background: url('../images/img (8).jpg') repeat-x fixed -100px -45px #f77b6f;
+    /*background-size: 100% 100%;*/
+    /*background-position: center;*/
+    background-size: cover;
+    /*background-position:left;*/
+    width: 100%;
+    min-height: 770px;
+    /*font-style:italic;*/
 }
 /* soc_icons */
 .soc_icons {
@@ -199,7 +204,7 @@ body {
 	margin: 0 auto;
 }
 .h_img{
-	float:left;
+	float: left;
 	width: 32.33333%;
 	margin-bottom: -3px;
 }
