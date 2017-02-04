@@ -96,13 +96,13 @@ body {
 }
 /*-- start header --*/
 .header {
-    background: url('../images/img (8).jpg') repeat-x fixed -45px -45px #f77b6f;
+    background: url('../images/img (8).jpg') no-repeat fixed -45px -45px;/*#f77b6f;*/ 
     /*background-size: 100% 100%;*/
     /*background-position: center;*/
     background-size: cover;
     /*background-position:left;*/
     width: 100%;
-    min-height: 770px;
+    min-height: 700px;
     /*font-style:italic;*/
 }
 /* soc_icons */
