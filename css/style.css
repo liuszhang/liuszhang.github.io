@@ -96,7 +96,7 @@ body {
 }
 /*-- start header --*/
 .header {
-    background: url('../images/img (8).jpg') repeat-x fixed -100px -45px #f77b6f;
+    background: url('../images/img (8).jpg') repeat-x fixed -45px -45px #f77b6f;
     /*background-size: 100% 100%;*/
     /*background-position: center;*/
     background-size: cover;
