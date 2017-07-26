@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\album_we"
+    "\\album_we\\bootstrap",
+    "\\album_we\\bootstrap\\js",
+    "\\images\\ergou"
   ],
-  "SelectedNode": "\\album_we\\images",
   "PreviewInSolutionExplorer": false
 }
