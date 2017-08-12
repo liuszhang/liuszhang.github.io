@@ -710,6 +710,7 @@
 		}
 
 		.image.fit {
+            /*float:left;*/
 			display: block;
 			margin: 0 0 2em 0;
 			width: 100%;
@@ -916,15 +917,18 @@
 		-moz-column-gap: 1em;
 		-webkit-column-gap: 1em;
 		column-gap: 1em;
+        /*display:inline-block;*/
 	}
 
-		.columns .image {
-			position: relative;
-			display: inline-block;
-			margin: 0 0 .5em;
-			width: 100%;
-			overflow: hidden;
-		}
+        .columns .image {
+            /*float:right;*/
+            position:relative;            
+            display: inline-block;
+            /*display: inline;*/
+            margin: 0 0 .5em;
+            width: 100%;
+            overflow: hidden;
+        }
 
 			.columns .image img {
 				-moz-transition: -moz-transform 0.2s ease-in-out;
