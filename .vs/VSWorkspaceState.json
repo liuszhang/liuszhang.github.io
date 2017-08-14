@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\css",
+    "\\images",
+    "\\images\\ergou"
   ],
+  "SelectedNode": "\\css\\album_main.css",
   "PreviewInSolutionExplorer": false
 }

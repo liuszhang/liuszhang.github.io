@@ -907,6 +907,39 @@
 		border-top-color: rgba(144, 144, 144, 0.25);
 	}
 
+a.bot {
+    margin-top: -2px;
+    padding: 22px 0 20px 20px;
+    border: 2px solid #ff6765;
+    display: block;
+    position: relative;
+    background-color: #ff6765;
+    color: #2a394e;
+    /*font: 20px/20px 'Economica', sans-serif;*/
+    font: 20px/20px arial, sans-serif;
+}
+
+    a.bot span {
+        display: block;
+        position: absolute;
+        color: #fff;
+        font-size: 18px;
+        line-height: 18px;
+        right: -1px;
+        top: -1px;
+        bottom: -1px;
+        background-color: #ff8382;
+        width: 70px;
+        text-align: center;
+        padding-top: 18px;
+    }
+
+    a.bot:hover {
+        background-color: #fff;
+    }
+
+
+
 /* Columns */
 
 	.columns {
@@ -914,6 +947,7 @@
 		-moz-column-count: 4;
 		-webkit-column-count: 4;
 		column-count: 4;
+        /*column-width:10em;*/
 		-moz-column-gap: 1em;
 		-webkit-column-gap: 1em;
 		column-gap: 1em;
