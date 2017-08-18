@@ -909,14 +909,14 @@
 
 a.bot {
     margin-top: -2px;
-    padding: 22px 0 20px 20px;
+    padding: 10px 10px 10px 2px;
     border: 2px solid #ff6765;
     display: block;
     position: relative;
     background-color: #ff6765;
     color: #2a394e;
     /*font: 20px/20px 'Economica', sans-serif;*/
-    font: 20px/20px arial, sans-serif;
+    font: 18px/18px arial, sans-serif;
 }
 
     a.bot span {
@@ -931,7 +931,7 @@ a.bot {
         background-color: #ff8382;
         width: 70px;
         text-align: center;
-        padding-top: 18px;
+        padding: 2px;
     }
 
     a.bot:hover {
